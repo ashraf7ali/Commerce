@@ -10,7 +10,6 @@ Design an eBay-like e-commerce auction site that will allow users to post auctio
 
 All requirements can be viewed here: https://cs50.harvard.edu/web/2020/projects/2/commerce/
 
-Live version can be viewed here: http://cs50commerce.pythonanywhere.com/
 
 ## Preview
 ### View Listings
@@ -39,4 +38,4 @@ To set up this project on your computer:
     ```
 
 ---
-Special thanks to Brian and the entire CS50 team for making learning easy, engaging, and free. 
+
